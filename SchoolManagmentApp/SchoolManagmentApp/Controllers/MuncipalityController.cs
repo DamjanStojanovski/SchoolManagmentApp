@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Services.Interfaces;
+using System;
 using System.Collections.Generic;
 using WebModels;
 
@@ -24,8 +25,13 @@ namespace SchoolManagmentApp.Controllers
             var muncipalities = _muncipalityService.GetAllMuncipalities();
             return Ok(muncipalities);
         }
+        public ActionResult<IEnumerable<MuncipalityViewModel>> GetMuncipalityById( Guid id)
+        {
+            var muncipality = _muncipalityService.GetMuncipalityById(id);
+            return Ok(muncipality);
+        }
 
-      
+
 
     }
 }
