@@ -24,6 +24,15 @@ namespace SchoolManagmentApp.Controllers
             var muncipalities = _muncipalityService.GetAllMuncipalities();
             return Ok(muncipalities);
         }
+<<<<<<< HEAD
+=======
+        public ActionResult<IEnumerable<MuncipalityViewModel>> GetMuncipalityById( Guid id)
+        {
+            var muncipality = _muncipalityService.GetMuncipalityById(id);
+            return Ok(muncipality);
+        }
+
+>>>>>>> parent of e625976... new action
 
       
 
