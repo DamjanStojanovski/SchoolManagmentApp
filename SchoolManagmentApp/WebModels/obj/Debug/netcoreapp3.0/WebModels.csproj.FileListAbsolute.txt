@@ -1,0 +1,8 @@
+D:\Semos\SchoolManagmentApp\WebModels\bin\Debug\netcoreapp3.0\WebModels.deps.json
+D:\Semos\SchoolManagmentApp\WebModels\bin\Debug\netcoreapp3.0\WebModels.dll
+D:\Semos\SchoolManagmentApp\WebModels\bin\Debug\netcoreapp3.0\WebModels.pdb
+D:\Semos\SchoolManagmentApp\WebModels\obj\Debug\netcoreapp3.0\WebModels.AssemblyInfoInputs.cache
+D:\Semos\SchoolManagmentApp\WebModels\obj\Debug\netcoreapp3.0\WebModels.AssemblyInfo.cs
+D:\Semos\SchoolManagmentApp\WebModels\obj\Debug\netcoreapp3.0\WebModels.dll
+D:\Semos\SchoolManagmentApp\WebModels\obj\Debug\netcoreapp3.0\WebModels.pdb
+D:\Semos\SchoolManagmentApp\WebModels\obj\Debug\netcoreapp3.0\WebModels.csprojAssemblyReference.cache

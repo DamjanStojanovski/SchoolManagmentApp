@@ -1,0 +1,13 @@
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\Repositories.deps.json
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\Repositories.dll
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\Repositories.pdb
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\DataAccess.dll
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\DataAccess.pdb
+D:\Semos\SchoolManagmentApp\Repositories\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Semos\SchoolManagmentApp\Repositories\obj\Debug\netcoreapp3.0\Repositories.csprojAssemblyReference.cache
+D:\Semos\SchoolManagmentApp\Repositories\obj\Debug\netcoreapp3.0\Repositories.AssemblyInfoInputs.cache
+D:\Semos\SchoolManagmentApp\Repositories\obj\Debug\netcoreapp3.0\Repositories.AssemblyInfo.cs
+D:\Semos\SchoolManagmentApp\Repositories\obj\Debug\netcoreapp3.0\Repositories.csproj.CopyComplete
+D:\Semos\SchoolManagmentApp\Repositories\obj\Debug\netcoreapp3.0\Repositories.dll
+D:\Semos\SchoolManagmentApp\Repositories\obj\Debug\netcoreapp3.0\Repositories.pdb
