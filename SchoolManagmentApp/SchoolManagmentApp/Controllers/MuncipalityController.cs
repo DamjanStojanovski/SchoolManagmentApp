@@ -30,11 +30,7 @@ namespace SchoolManagmentApp.Controllers
             var muncipality = _muncipalityService.GetMuncipalityById(id);
             return Ok(muncipality);
         }
-        public ActionResult<IEnumerable<MuncipalityViewModel>> GetMuncipalityByPostalCode(string postalCode)
-        {
-            var muncipality = _muncipalityService.GetMuncipalityByPostalCode(postalCode);
-            return Ok(muncipality);
-        }
+
 
 
     }
